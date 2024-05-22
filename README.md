@@ -2,7 +2,17 @@ AQUI VAN LOS VIDEOS...
 
 https://github.com/jfespinoza/ROMs/blob/main/FF.mp4
 
-[Ver video](./FF.mp4)
+[./FF.mp4](https://github.com/jfespinoza/ROMs/raw/main/FF.mp4)
 
-https://user-images.githubusercontent.com/81319528/165279284-bfc1f690-c1b1-420e-9a8f-f90ed2bec3c4.mp4
+## Mi Proyecto
+
+### Video de Demostración
+
+<video width="600" controls>
+  <source src="https://github.com/jfespinoza/ROMs/raw/main/FF.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+
+https:// user-images.githubusercontent.com/81319528/165279284-bfc1f690-c1b1-420e-9a8f-f90ed2bec3c4.mp4
 
